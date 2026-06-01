@@ -1,0 +1,67 @@
+{
+  "doi": {
+    "source_column": "null",
+    "inferred_value": "10.1038/ncomms10122",
+    "confidence": 0.9
+  },
+  "study_id": {
+    "source_column": "null",
+    "inferred_value": "10.1038/ncomms10122",
+    "confidence": 0.9
+  },
+  "location": {
+    "source_column": null,
+    "inferred_value": "Great Britain",
+    "confidence": 0.8
+  },
+  "country": {
+    "source_column": null,
+    "inferred_value": "United Kingdom",
+    "confidence": 0.9
+  },
+  "latitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "longitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "taxon": {
+    "source_column": "Species name",
+    "inferred_value": null,
+    "confidence": 0.9
+  },
+  "biodiversity_metric": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "biodiversity_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "ecosystem_function": {
+    "source_column": null,
+    "inferred_value": "Carbon sequestration, Decomposition, Pest control, Pollination",
+    "confidence": 0.9
+  },
+  "ecosystem_function_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "sample_size": {
+    "source_column": null,
+    "inferred_value": "4424",
+    "confidence": 0.8
+  },
+  "units": {
+    "source_column": null,
+    "inferred_value": "individuals",
+    "confidence": 0.5
+  }
+}

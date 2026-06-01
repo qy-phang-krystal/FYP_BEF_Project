@@ -1,0 +1,67 @@
+{
+  "doi": {
+    "source_column": "null",
+    "inferred_value": "10.1111/1365-2745.12585",
+    "confidence": 0.8
+  },
+  "study_id": {
+    "source_column": "null",
+    "inferred_value": "Lack of functional redundancy in the relationship between microbial diversity and ecosystem functioning",
+    "confidence": 0.6
+  },
+  "location": {
+    "source_column": "Site",
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "country": {
+    "source_column": "Country",
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "latitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "longitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "taxon": {
+    "source_column": "null",
+    "inferred_value": "Bacteria",
+    "confidence": 0.9
+  },
+  "biodiversity_metric": {
+    "source_column": "Bacterial_richness",
+    "inferred_value": null,
+    "confidence": 0.7
+  },
+  "biodiversity_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "ecosystem_function": {
+    "source_column": null,
+    "inferred_value": "cumulative microbial respiration",
+    "confidence": 0.9
+  },
+  "ecosystem_function_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "sample_size": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "units": {
+    "source_column": null,
+    "inferred_value": "L",
+    "confidence": 0.5
+  }
+}

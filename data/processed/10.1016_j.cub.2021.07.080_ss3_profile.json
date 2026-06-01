@@ -1,0 +1,42 @@
+{
+  "file": "10.1016_j.cub.2021.07.080_ss3.csv",
+  "type": "csv",
+  "columns": [
+    "Unnamed: 0",
+    "Size_max_mm",
+    "Trophic_group",
+    "Diurnal",
+    "Habitat"
+  ],
+  "dtypes": {
+    "Unnamed: 0": "str",
+    "Size_max_mm": "float64",
+    "Trophic_group": "int64",
+    "Diurnal": "str",
+    "Habitat": "int64"
+  },
+  "sample_rows": [
+    {
+      "Unnamed: 0": "Abax parallelepipedus",
+      "Size_max_mm": 22.0,
+      "Trophic_group": 1,
+      "Diurnal": "N",
+      "Habitat": 1
+    },
+    {
+      "Unnamed: 0": "Acupalpus meridianus",
+      "Size_max_mm": 4.0,
+      "Trophic_group": 0,
+      "Diurnal": "N",
+      "Habitat": 1
+    },
+    {
+      "Unnamed: 0": "Anchomenus dorsalis",
+      "Size_max_mm": 8.0,
+      "Trophic_group": 1,
+      "Diurnal": "N",
+      "Habitat": 1
+    }
+  ],
+  "row_count": 68
+}

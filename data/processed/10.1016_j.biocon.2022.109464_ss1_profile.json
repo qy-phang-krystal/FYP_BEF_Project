@@ -1,0 +1,894 @@
+{
+  "file": "10.1016_j.biocon.2022.109464_ss1.xlsx",
+  "type": "excel",
+  "sheets": {
+    "Title": {
+      "is_data_sheet": false,
+      "raw_shape": [
+        0,
+        0
+      ],
+      "parsed_tables": []
+    },
+    "Data for R Plots": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        43,
+        40
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "GroupBritIsles",
+            "Observed.NI.Priority",
+            "Expected.NI.Priority",
+            "Observed.Wales.Priority",
+            "Expected.Wales.Priority",
+            "Observed.Scot.Priority",
+            "Expected.Scot.Priority",
+            "Observed.Eng.Priority",
+            "Expected.Eng.Priority",
+            "Observed.Num.WCA",
+            "Expected.Num.WCA",
+            "Observed.Num.WO",
+            "Expected.Num.WO",
+            "Fig2.Order",
+            "Fig2.Policy",
+            "Fig2.PropSpecies",
+            "Fig3.Order.GB",
+            "Fig3.Num.Threatened.GB",
+            "Fig3a.England",
+            "Fig3c.Scotland",
+            "Fig3b.Wales",
+            "Fig3.Order.Ireland",
+            "Fig3.Num.Threatened.Ireland",
+            "Fig3d.NorthernIreland",
+            "Fig4.Class.GB",
+            "Fig4.Order.GB",
+            "Fig4.Num.GB",
+            "Fig4.Num.WCA",
+            "Fig4.Class.IRE",
+            "Fig4.Order.IRE",
+            "Fig4.Num.IRE",
+            "Fig4.Num.WOCR",
+            "Fig4.Num.WA",
+            "Fig5.Class",
+            "Fig5.Order",
+            "Fig5.Num.GB",
+            "Fig5.Num.WCA",
+            "Fig5.Num.Ireland",
+            "Fig5.Num.WOCR",
+            "Fig5.Num.WA"
+          ],
+          "dtypes": {
+            "GroupBritIsles": "str",
+            "Observed.NI.Priority": "object",
+            "Expected.NI.Priority": "object",
+            "Observed.Wales.Priority": "object",
+            "Expected.Wales.Priority": "object",
+            "Observed.Scot.Priority": "object",
+            "Expected.Scot.Priority": "object",
+            "Observed.Eng.Priority": "object",
+            "Expected.Eng.Priority": "object",
+            "Observed.Num.WCA": "object",
+            "Expected.Num.WCA": "object",
+            "Observed.Num.WO": "object",
+            "Expected.Num.WO": "object",
+            "Fig2.Order": "str",
+            "Fig2.Policy": "str",
+            "Fig2.PropSpecies": "object",
+            "Fig3.Order.GB": "str",
+            "Fig3.Num.Threatened.GB": "object",
+            "Fig3a.England": "object",
+            "Fig3c.Scotland": "object",
+            "Fig3b.Wales": "object",
+            "Fig3.Order.Ireland": "str",
+            "Fig3.Num.Threatened.Ireland": "object",
+            "Fig3d.NorthernIreland": "object",
+            "Fig4.Class.GB": "str",
+            "Fig4.Order.GB": "str",
+            "Fig4.Num.GB": "object",
+            "Fig4.Num.WCA": "object",
+            "Fig4.Class.IRE": "str",
+            "Fig4.Order.IRE": "str",
+            "Fig4.Num.IRE": "object",
+            "Fig4.Num.WOCR": "object",
+            "Fig4.Num.WA": "object",
+            "Fig5.Class": "str",
+            "Fig5.Order": "str",
+            "Fig5.Num.GB": "object",
+            "Fig5.Num.WCA": "object",
+            "Fig5.Num.Ireland": "object",
+            "Fig5.Num.WOCR": "object",
+            "Fig5.Num.WA": "object"
+          },
+          "sample_rows": [
+            {
+              "GroupBritIsles": "Ephemeroptera",
+              "Observed.NI.Priority": 0,
+              "Expected.NI.Priority": 0,
+              "Observed.Wales.Priority": 2,
+              "Expected.Wales.Priority": 0,
+              "Observed.Scot.Priority": 1,
+              "Expected.Scot.Priority": 1,
+              "Observed.Eng.Priority": 2,
+              "Expected.Eng.Priority": 1,
+              "Observed.Num.WCA": 0,
+              "Expected.Num.WCA": 0,
+              "Observed.Num.WO": 0,
+              "Expected.Num.WO": 0,
+              "Fig2.Order": "Coleoptera",
+              "Fig2.Policy": "WCA 1981",
+              "Fig2.PropSpecies": 0.166666667,
+              "Fig3.Order.GB": "Coleoptera",
+              "Fig3.Num.Threatened.GB": 177,
+              "Fig3a.England": 38,
+              "Fig3c.Scotland": 17,
+              "Fig3b.Wales": 13,
+              "Fig3.Order.Ireland": "Coleoptera",
+              "Fig3.Num.Threatened.Ireland": 39,
+              "Fig3d.NorthernIreland": 20,
+              "Fig4.Class.GB": "Insecta",
+              "Fig4.Order.GB": "Coleoptera",
+              "Fig4.Num.GB": 177,
+              "Fig4.Num.WCA": 4,
+              "Fig4.Class.IRE": "Insecta",
+              "Fig4.Order.IRE": "Aquatic Coleoptera",
+              "Fig4.Num.IRE": 39,
+              "Fig4.Num.WOCR": 0,
+              "Fig4.Num.WA": 0,
+              "Fig5.Class": "Insecta",
+              "Fig5.Order": "Coleoptera",
+              "Fig5.Num.GB": 136,
+              "Fig5.Num.WCA": 2,
+              "Fig5.Num.Ireland": 32,
+              "Fig5.Num.WOCR": 0,
+              "Fig5.Num.WA": 0
+            },
+            {
+              "GroupBritIsles": "Odonata",
+              "Observed.NI.Priority": 1,
+              "Expected.NI.Priority": 0,
+              "Observed.Wales.Priority": 1,
+              "Expected.Wales.Priority": 0,
+              "Observed.Scot.Priority": 1,
+              "Expected.Scot.Priority": 1,
+              "Observed.Eng.Priority": 2,
+              "Expected.Eng.Priority": 1,
+              "Observed.Num.WCA": 2,
+              "Expected.Num.WCA": 0,
+              "Observed.Num.WO": 1,
+              "Expected.Num.WO": 0,
+              "Fig2.Order": "Lepidoptera",
+              "Fig2.Policy": "WCA 1981",
+              "Fig2.PropSpecies": 0.708333333,
+              "Fig3.Order.GB": "Butterflies",
+              "Fig3.Num.Threatened.GB": 19,
+              "Fig3a.England": 17,
+              "Fig3c.Scotland": 5,
+              "Fig3b.Wales": 12,
+              "Fig3.Order.Ireland": "Bees",
+              "Fig3.Num.Threatened.Ireland": 30,
+              "Fig3d.NorthernIreland": 18,
+              "Fig4.Class.GB": "Insecta",
+              "Fig4.Order.GB": "Butterflies",
+              "Fig4.Num.GB": 19,
+              "Fig4.Num.WCA": 14,
+              "Fig4.Class.IRE": "Insecta",
+              "Fig4.Order.IRE": "Bees",
+              "Fig4.Num.IRE": 30,
+              "Fig4.Num.WOCR": 0,
+              "Fig4.Num.WA": 0,
+              "Fig5.Class": "Insecta",
+              "Fig5.Order": "Hymenoptera",
+              "Fig5.Num.GB": 260,
+              "Fig5.Num.WCA": 0,
+              "Fig5.Num.Ireland": 101,
+              "Fig5.Num.WOCR": 0,
+              "Fig5.Num.WA": 0
+            },
+            {
+              "GroupBritIsles": "Orthoptera",
+              "Observed.NI.Priority": 0,
+              "Expected.NI.Priority": 0,
+              "Observed.Wales.Priority": 1,
+              "Expected.Wales.Priority": 0,
+              "Observed.Scot.Priority": 2,
+              "Expected.Scot.Priority": 0,
+              "Observed.Eng.Priority": 4,
+              "Expected.Eng.Priority": 0,
+              "Observed.Num.WCA": 3,
+              "Expected.Num.WCA": 0,
+              "Observed.Num.WO": 0,
+              "Expected.Num.WO": 0,
+              "Fig2.Order": "Hymenoptera",
+              "Fig2.Policy": "WCA 1981",
+              "Fig2.PropSpecies": 0,
+              "Fig3.Order.GB": "Trichoptera",
+              "Fig3.Num.Threatened.GB": 17,
+              "Fig3a.England": 4,
+              "Fig3c.Scotland": 1,
+              "Fig3b.Wales": 1,
+              "Fig3.Order.Ireland": "Butterflies",
+              "Fig3.Num.Threatened.Ireland": 6,
+              "Fig3d.NorthernIreland": 4,
+              "Fig4.Class.GB": "Insecta",
+              "Fig4.Order.GB": "Trichoptera",
+              "Fig4.Num.GB": 17,
+              "Fig4.Num.WCA": 0,
+              "Fig4.Class.IRE": "Insecta",
+              "Fig4.Order.IRE": "Butterflies",
+              "Fig4.Num.IRE": 6,
+              "Fig4.Num.WOCR": 3,
+              "Fig4.Num.WA": 0,
+              "Fig5.Class": "Insecta",
+              "Fig5.Order": "Lepidoptera",
+              "Fig5.Num.GB": 59,
+              "Fig5.Num.WCA": 25,
+              "Fig5.Num.Ireland": 31,
+              "Fig5.Num.WOCR": 7,
+              "Fig5.Num.WA": 0
+            }
+          ],
+          "row_count": 42
+        }
+      ]
+    },
+    "No.Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        33,
+        5
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "No. Worldwide Species",
+            "No. European Species",
+            "No. British Isles Species",
+            "Prop. British Isles Entomofauna"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "No. Worldwide Species": "object",
+            "No. European Species": "object",
+            "No. British Isles Species": "object",
+            "Prop. British Isles Entomofauna": "object"
+          },
+          "sample_rows": [
+            {
+              "Group": "Collembola",
+              "No. Worldwide Species": 8000,
+              "No. European Species": 2000,
+              "No. British Isles Species": 250,
+              "Prop. British Isles Entomofauna": 0.0103980368506426
+            },
+            {
+              "Group": "Diplura",
+              "No. Worldwide Species": 1000,
+              "No. European Species": 300,
+              "No. British Isles Species": 11,
+              "Prop. British Isles Entomofauna": 0.00045751362142827434
+            },
+            {
+              "Group": "Protura",
+              "No. Worldwide Species": 750,
+              "No. European Species": 175,
+              "No. British Isles Species": 15,
+              "Prop. British Isles Entomofauna": 0.000623882211038556
+            }
+          ],
+          "row_count": 32
+        }
+      ]
+    },
+    " WCA 1981": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        104,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Chrysolina cerealis"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Curimopsis nigrita"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Graphoderus zonatus"
+            }
+          ],
+          "row_count": 103
+        }
+      ]
+    },
+    "WO 1985 & Con Regs 1995 (NI)": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        67,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Lepidoptera",
+              "Species/Taxa": "Celastrina argiolus"
+            },
+            {
+              "Group": "Lepidoptera",
+              "Species/Taxa": "Coenonympha tullia"
+            },
+            {
+              "Group": "Lepidoptera",
+              "Species/Taxa": "Cupido minimus"
+            }
+          ],
+          "row_count": 66
+        }
+      ]
+    },
+    "Ireland Wildlife Act": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        15,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Mammals",
+              "Species/Taxa": "Badger"
+            },
+            {
+              "Group": "Mammals",
+              "Species/Taxa": "Bat Species"
+            },
+            {
+              "Group": "Mammals",
+              "Species/Taxa": "Deer Species"
+            }
+          ],
+          "row_count": 14
+        }
+      ]
+    },
+    " England Priority Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        323,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agabus (Gaurodytes) brunneus"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agonum (Europhilus) scitulum"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Amara (Amara) famelica"
+            }
+          ],
+          "row_count": 322
+        }
+      ]
+    },
+    "Scotland Priority Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        345,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agabus (Agabus) uliginosus"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Anacaena limbata"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Augyles maritimus"
+            }
+          ],
+          "row_count": 344
+        }
+      ]
+    },
+    "Wales Priority Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        168,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agonum (Europhilus) scitulum"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Bembidion (Bembidion) quadripustulatum"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Bembidion (Ocydromus) testaceum"
+            }
+          ],
+          "row_count": 167
+        }
+      ]
+    },
+    "NI Priority Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        144,
+        2
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species/Taxa"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species/Taxa": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agabus (Acatodes) arcticus"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agabus (Acatodes) congener"
+            },
+            {
+              "Group": "Coleoptera",
+              "Species/Taxa": "Agabus (Gaurodytes) conspersus"
+            }
+          ],
+          "row_count": 143
+        }
+      ]
+    },
+    "IUCN Europe UK": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        630,
+        6
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "phylumName",
+            "orderName",
+            "scientificName",
+            "redlistCategory",
+            "criteriaVersion",
+            "populationTrend"
+          ],
+          "dtypes": {
+            "phylumName": "str",
+            "orderName": "str",
+            "scientificName": "str",
+            "redlistCategory": "str",
+            "criteriaVersion": "object",
+            "populationTrend": "str"
+          },
+          "sample_rows": [
+            {
+              "phylumName": "ARTHROPODA",
+              "orderName": "COLEOPTERA",
+              "scientificName": "Alosterna tabacicolor",
+              "redlistCategory": "Least Concern",
+              "criteriaVersion": 3.1,
+              "populationTrend": "Stable"
+            },
+            {
+              "phylumName": "ARTHROPODA",
+              "orderName": "COLEOPTERA",
+              "scientificName": "Ampedus balteatus",
+              "redlistCategory": "Least Concern",
+              "criteriaVersion": 3.1,
+              "populationTrend": "Stable"
+            },
+            {
+              "phylumName": "ARTHROPODA",
+              "orderName": "COLEOPTERA",
+              "scientificName": "Ampedus cardinalis",
+              "redlistCategory": "Near Threatened",
+              "criteriaVersion": 3.1,
+              "populationTrend": "Unknown"
+            }
+          ],
+          "row_count": 629
+        }
+      ]
+    },
+    "IUCN Europe Ireland": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        262,
+        6
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "phylumName",
+            "orderName",
+            "scientificName",
+            "redlistCategory",
+            "criteriaVersion",
+            "populationTrend"
+          ],
+          "dtypes": {
+            "phylumName": "str",
+            "orderName": "str",
+            "scientificName": "str",
+            "redlistCategory": "str",
+            "criteriaVersion": "object",
+            "populationTrend": "str"
+          },
+          "sample_rows": [
+            {
+              "phylumName": "ARTHROPODA",
+              "orderName": "COLEOPTERA",
+              "scientificName": "Alosterna tabacicolor",
+              "redlistCategory": "Least Concern",
+              "criteriaVersion": 3.1,
+              "populationTrend": "Stable"
+            },
+            {
+              "phylumName": "ARTHROPODA",
+              "orderName": "COLEOPTERA",
+              "scientificName": "Ampedus balteatus",
+              "redlistCategory": "Least Concern",
+              "criteriaVersion": 3.1,
+              "populationTrend": "Stable"
+            },
+            {
+              "phylumName": "ARTHROPODA",
+              "orderName": "COLEOPTERA",
+              "scientificName": "Ampedus pomonae",
+              "redlistCategory": "Least Concern",
+              "criteriaVersion": 3.1,
+              "populationTrend": "Unknown"
+            }
+          ],
+          "row_count": 261
+        }
+      ]
+    },
+    "GB IUCN Insects": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        2610,
+        4
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Taxa",
+            "Post-2001 Uk-Level IUCN Listing",
+            "Source"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Taxa": "str",
+            "Post-2001 Uk-Level IUCN Listing": "str",
+            "Source": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "insect - beetle (Coleoptera)",
+              "Taxa": "Agonum (Europhilus) scitulum",
+              "Post-2001 Uk-Level IUCN Listing": "RedList_GB_post2001-CR",
+              "Source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)"
+            },
+            {
+              "Group": "insect - beetle (Coleoptera)",
+              "Taxa": "Aphanisticus emarginatus",
+              "Post-2001 Uk-Level IUCN Listing": "RedList_GB_post2001-CR",
+              "Source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)"
+            },
+            {
+              "Group": "insect - beetle (Coleoptera)",
+              "Taxa": "Aphodius (Phalacronothus) quadrimaculatus",
+              "Post-2001 Uk-Level IUCN Listing": "RedList_GB_post2001-CR",
+              "Source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae"
+            }
+          ],
+          "row_count": 2609
+        }
+      ]
+    },
+    "GB IUCN Mammals": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        60,
+        3
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Order",
+            "Species",
+            "GB-Level IUCN Listing"
+          ],
+          "dtypes": {
+            "Order": "str",
+            "Species": "str",
+            "GB-Level IUCN Listing": "str"
+          },
+          "sample_rows": [
+            {
+              "Order": "Artiodactyla",
+              "Species": "Sus scrofa",
+              "GB-Level IUCN Listing": "DD"
+            },
+            {
+              "Order": "Artiodactyla",
+              "Species": "Cervus elaphus",
+              "GB-Level IUCN Listing": "LC"
+            },
+            {
+              "Order": "Artiodactyla",
+              "Species": "Capreolus capreolus",
+              "GB-Level IUCN Listing": "LC"
+            }
+          ],
+          "row_count": 59
+        }
+      ]
+    },
+    "GB Threatened Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        601,
+        3
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Taxa",
+            "Post-2001 Uk-Level IUCN Listing"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Taxa": "str",
+            "Post-2001 Uk-Level IUCN Listing": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "insect - beetle (Coleoptera)",
+              "Taxa": "Agonum (Europhilus) scitulum",
+              "Post-2001 Uk-Level IUCN Listing": "RedList_GB_post2001-CR"
+            },
+            {
+              "Group": "insect - beetle (Coleoptera)",
+              "Taxa": "Aphanisticus emarginatus",
+              "Post-2001 Uk-Level IUCN Listing": "RedList_GB_post2001-CR"
+            },
+            {
+              "Group": "insect - beetle (Coleoptera)",
+              "Taxa": "Aphodius (Phalacronothus) quadrimaculatus",
+              "Post-2001 Uk-Level IUCN Listing": "RedList_GB_post2001-CR"
+            }
+          ],
+          "row_count": 600
+        }
+      ]
+    },
+    "Ireland IUCN Insects": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        1053,
+        4
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species",
+            "IUCN Category",
+            "Source"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species": "str",
+            "IUCN Category": "str",
+            "Source": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Aquatic Coleoptera",
+              "Species": "Agabus melanarius Aub\u00e9 ",
+              "IUCN Category": "\u2010 ",
+              "Source": "Foster et al., 2009"
+            },
+            {
+              "Group": "Aquatic Coleoptera",
+              "Species": "Platambus maculatus (L.) ",
+              "IUCN Category": "\u2010 ",
+              "Source": "Foster et al., 2009"
+            },
+            {
+              "Group": "Aquatic Coleoptera",
+              "Species": "Hygrotus decoratus (Gyllenhal)  ",
+              "IUCN Category": "CR",
+              "Source": "Foster et al., 2009"
+            }
+          ],
+          "row_count": 1052
+        }
+      ]
+    },
+    "Ireland IUCN Mammals": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        44,
+        3
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Order",
+            "Species",
+            "Ireland-Level IUCN Listing"
+          ],
+          "dtypes": {
+            "Order": "str",
+            "Species": "str",
+            "Ireland-Level IUCN Listing": "str"
+          },
+          "sample_rows": [
+            {
+              "Order": "Artiodactyla",
+              "Species": "Cervus elaphus  ",
+              "Ireland-Level IUCN Listing": "LC "
+            },
+            {
+              "Order": "Artiodactyla",
+              "Species": "Dama dama ",
+              "Ireland-Level IUCN Listing": "LC "
+            },
+            {
+              "Order": "Artiodactyla",
+              "Species": "Cervus nippon ",
+              "Ireland-Level IUCN Listing": "NA "
+            }
+          ],
+          "row_count": 43
+        }
+      ]
+    },
+    "Ireland Threatened Species": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        189,
+        3
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Group",
+            "Species",
+            "IUCN Category"
+          ],
+          "dtypes": {
+            "Group": "str",
+            "Species": "str",
+            "IUCN Category": "str"
+          },
+          "sample_rows": [
+            {
+              "Group": "Aquatic Coleoptera",
+              "Species": "Hygrotus decoratus (Gyllenhal)  ",
+              "IUCN Category": "CR"
+            },
+            {
+              "Group": "Aquatic Coleoptera",
+              "Species": "Haliplus apicalis Thomson ",
+              "IUCN Category": "CR "
+            },
+            {
+              "Group": "Aquatic Coleoptera",
+              "Species": "Hydraena minutissima Stephens ",
+              "IUCN Category": "CR "
+            }
+          ],
+          "row_count": 188
+        }
+      ]
+    }
+  }
+}

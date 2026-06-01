@@ -1,0 +1,67 @@
+{
+  "doi": {
+    "source_column": null,
+    "inferred_value": "10.1016/j.cub.2021.07.080",
+    "confidence": 1.0
+  },
+  "study_id": {
+    "source_column": "Trait_resolution",
+    "inferred_value": null,
+    "confidence": 0.9
+  },
+  "location": {
+    "source_column": null,
+    "inferred_value": "Great Britain",
+    "confidence": 0.9
+  },
+  "country": {
+    "source_column": null,
+    "inferred_value": "United Kingdom",
+    "confidence": 0.9
+  },
+  "latitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "longitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "taxon": {
+    "source_column": "Species",
+    "inferred_value": null,
+    "confidence": 0.9
+  },
+  "biodiversity_metric": {
+    "source_column": null,
+    "inferred_value": "Species richness",
+    "confidence": 0.9
+  },
+  "biodiversity_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "ecosystem_function": {
+    "source_column": null,
+    "inferred_value": "Pollination",
+    "confidence": 0.8
+  },
+  "ecosystem_function_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "sample_size": {
+    "source_column": null,
+    "inferred_value": "92",
+    "confidence": 0.9
+  },
+  "units": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  }
+}

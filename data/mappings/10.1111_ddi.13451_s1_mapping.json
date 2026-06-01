@@ -1,0 +1,67 @@
+{
+  "doi": {
+    "source_column": "null",
+    "inferred_value": "10.1111/ddi.13451",
+    "confidence": 1.0
+  },
+  "study_id": {
+    "source_column": "null",
+    "inferred_value": "10.1111/ddi.13451",
+    "confidence": 1.0
+  },
+  "location": {
+    "source_column": "null",
+    "inferred_value": "Lyme Bay MPA",
+    "confidence": 0.9
+  },
+  "country": {
+    "source_column": "null",
+    "inferred_value": "United Kingdom",
+    "confidence": 0.9
+  },
+  "latitude": {
+    "source_column": "null",
+    "inferred_value": "50.6",
+    "confidence": 0.7
+  },
+  "longitude": {
+    "source_column": "null",
+    "inferred_value": "-3.4",
+    "confidence": 0.7
+  },
+  "taxon": {
+    "source_column": "Species",
+    "inferred_value": null,
+    "confidence": 1.0
+  },
+  "biodiversity_metric": {
+    "source_column": null,
+    "inferred_value": "Taxonomic diversity",
+    "confidence": 0.8
+  },
+  "biodiversity_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "ecosystem_function": {
+    "source_column": null,
+    "inferred_value": "Diversity of taxa and traits",
+    "confidence": 0.7
+  },
+  "ecosystem_function_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "sample_size": {
+    "source_column": null,
+    "inferred_value": "140",
+    "confidence": 0.9
+  },
+  "units": {
+    "source_column": null,
+    "inferred_value": "not specified",
+    "confidence": 0.0
+  }
+}

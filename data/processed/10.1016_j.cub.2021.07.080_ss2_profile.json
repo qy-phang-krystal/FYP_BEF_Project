@@ -1,0 +1,72 @@
+{
+  "file": "10.1016_j.cub.2021.07.080_ss2.csv",
+  "type": "csv",
+  "columns": [
+    "Name",
+    "Trait_resolution",
+    "Time_on_flower",
+    "Nectar_foraging_behv",
+    "Pollen_foraging_behv",
+    "Stigmal_contact_behv",
+    "Dry_pollen_on_body",
+    "Hairiness_index",
+    "ITD_mm",
+    "tongue_length",
+    "Corbicula_propodeal"
+  ],
+  "dtypes": {
+    "Name": "str",
+    "Trait_resolution": "str",
+    "Time_on_flower": "float64",
+    "Nectar_foraging_behv": "float64",
+    "Pollen_foraging_behv": "float64",
+    "Stigmal_contact_behv": "float64",
+    "Dry_pollen_on_body": "float64",
+    "Hairiness_index": "float64",
+    "ITD_mm": "float64",
+    "tongue_length": "str",
+    "Corbicula_propodeal": "int64"
+  },
+  "sample_rows": [
+    {
+      "Name": "Apis mellifera",
+      "Trait_resolution": "Species",
+      "Time_on_flower": 3.66,
+      "Nectar_foraging_behv": 0.98,
+      "Pollen_foraging_behv": 0.06,
+      "Stigmal_contact_behv": 0.4,
+      "Dry_pollen_on_body": 0.78,
+      "Hairiness_index": 0.917,
+      "ITD_mm": 3.65,
+      "tongue_length": "medium",
+      "Corbicula_propodeal": 0
+    },
+    {
+      "Name": "Andrena angustior",
+      "Trait_resolution": "Genus",
+      "Time_on_flower": 8.2,
+      "Nectar_foraging_behv": 0.9,
+      "Pollen_foraging_behv": 0.55,
+      "Stigmal_contact_behv": 0.89,
+      "Dry_pollen_on_body": 0.88,
+      "Hairiness_index": 0.792,
+      "ITD_mm": 1.88,
+      "tongue_length": "short",
+      "Corbicula_propodeal": 1
+    },
+    {
+      "Name": "Andrena bicolor",
+      "Trait_resolution": "Genus",
+      "Time_on_flower": 8.2,
+      "Nectar_foraging_behv": 0.9,
+      "Pollen_foraging_behv": 0.55,
+      "Stigmal_contact_behv": 0.89,
+      "Dry_pollen_on_body": 0.88,
+      "Hairiness_index": 0.792,
+      "ITD_mm": 2.13,
+      "tongue_length": "short",
+      "Corbicula_propodeal": 1
+    }
+  ],
+  "row_count": 45
+}

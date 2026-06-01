@@ -1,0 +1,144 @@
+{
+  "file": "10.1111_1365-2745.12585_s1.xlsx",
+  "type": "excel",
+  "sheets": {
+    "Broad&Specialized_functions": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        86,
+        21
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "NUM",
+            "Country",
+            "Site",
+            "Dilution",
+            "Replicate",
+            "Bacterial_abundance",
+            "Bacterial_richness",
+            "Cumulative_respiration",
+            "Triclosan_degradation",
+            "MC-LR _degradation",
+            "Acidobacteria",
+            "Actinobacteria",
+            "Bacteroidetes",
+            "Cyanobacteria",
+            "Firmicutes",
+            "Gemmatimonadetes",
+            "Proteobacteria",
+            "Verrucomicrobia",
+            "Other",
+            "NMDS1",
+            "NMDS2"
+          ],
+          "dtypes": {
+            "NUM": "object",
+            "Country": "str",
+            "Site": "str",
+            "Dilution": "object",
+            "Replicate": "object",
+            "Bacterial_abundance": "object",
+            "Bacterial_richness": "object",
+            "Cumulative_respiration": "object",
+            "Triclosan_degradation": "object",
+            "MC-LR _degradation": "object",
+            "Acidobacteria": "object",
+            "Actinobacteria": "object",
+            "Bacteroidetes": "object",
+            "Cyanobacteria": "object",
+            "Firmicutes": "object",
+            "Gemmatimonadetes": "object",
+            "Proteobacteria": "object",
+            "Verrucomicrobia": "object",
+            "Other": "object",
+            "NMDS1": "object",
+            "NMDS2": "object"
+          },
+          "sample_rows": [
+            {
+              "NUM": 1,
+              "Country": "Australia.1",
+              "Site": "H",
+              "Dilution": 1,
+              "Replicate": 1,
+              "Bacterial_abundance": 1401.644,
+              "Bacterial_richness": 358.9,
+              "Cumulative_respiration": 2171.179167162295,
+              "Triclosan_degradation": 0.671,
+              "MC-LR _degradation": 0.1019,
+              "Acidobacteria": 0.8055853920520001,
+              "Actinobacteria": 17.1679197995,
+              "Bacteroidetes": 7.93054063731,
+              "Cyanobacteria": 24.3823845328,
+              "Firmicutes": 0.16111707841,
+              "Gemmatimonadetes": 0.125313283208,
+              "Proteobacteria": 48.1023988543,
+              "Verrucomicrobia": 0,
+              "Other": 0.447547440029,
+              "NMDS1": -1.61,
+              "NMDS2": -0.01
+            },
+            {
+              "NUM": 2,
+              "Country": "Australia.1",
+              "Site": "H",
+              "Dilution": 1,
+              "Replicate": 2,
+              "Bacterial_abundance": 1233.084,
+              "Bacterial_richness": 371.8,
+              "Cumulative_respiration": 1924.319922407562,
+              "Triclosan_degradation": 0.67,
+              "MC-LR _degradation": 0.0921,
+              "Acidobacteria": 1.19908305414,
+              "Actinobacteria": 16.787162757900003,
+              "Bacteroidetes": 10.474343149400001,
+              "Cyanobacteria": 26.274025745000003,
+              "Firmicutes": 0.052900722976499996,
+              "Gemmatimonadetes": 0.229236466232,
+              "Proteobacteria": 43.519661435399996,
+              "Verrucomicrobia": 0.035267148651,
+              "Other": 0.51137365544,
+              "NMDS1": -1.61,
+              "NMDS2": 0.02
+            },
+            {
+              "NUM": 3,
+              "Country": "Australia.1",
+              "Site": "H",
+              "Dilution": 1,
+              "Replicate": 3,
+              "Bacterial_abundance": 826.952,
+              "Bacterial_richness": 348.8,
+              "Cumulative_respiration": 2101.0257207953227,
+              "Triclosan_degradation": 0.626,
+              "MC-LR _degradation": 0.1835,
+              "Acidobacteria": 0.8833271991170001,
+              "Actinobacteria": 15.7158630843,
+              "Bacteroidetes": 10.4343025396,
+              "Cyanobacteria": 30.9348546191,
+              "Firmicutes": 0.092013249908,
+              "Gemmatimonadetes": 0.147221199853,
+              "Proteobacteria": 40.7802723592,
+              "Verrucomicrobia": 0,
+              "Other": 0.294442399706,
+              "NMDS1": -1.64,
+              "NMDS2": 0.04
+            }
+          ],
+          "row_count": 85
+        }
+      ]
+    },
+    "Broad&Specialized_Metadata": {
+      "is_data_sheet": false,
+      "raw_shape": [
+        22,
+        4
+      ],
+      "parsed_tables": []
+    }
+  }
+}

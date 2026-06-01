@@ -1,0 +1,359 @@
+{
+  "file": "10.1016_j.eiar.2018.05.011_ss1.xlsx",
+  "type": "excel",
+  "sheets": {
+    "Wind farms": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        25,
+        13
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Applicant",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012"
+          ],
+          "dtypes": {
+            "Applicant": "str",
+            "2001": "object",
+            "2002": "object",
+            "2003": "object",
+            "2004": "object",
+            "2005": "object",
+            "2006": "object",
+            "2007": "object",
+            "2008": "object",
+            "2009": "object",
+            "2010": "object",
+            "2011": "object",
+            "2012": "object"
+          },
+          "sample_rows": [
+            {
+              "Applicant": "Airtricity",
+              "2001": null,
+              "2002": "Braes O'Doune",
+              "2003": null,
+              "2004": "Clyde",
+              "2005": null,
+              "2006": null,
+              "2007": null,
+              "2008": null,
+              "2009": null,
+              "2010": null,
+              "2011": null,
+              "2012": null
+            },
+            {
+              "Applicant": "Baillie Wind Farm",
+              "2001": null,
+              "2002": null,
+              "2003": null,
+              "2004": "Baillie",
+              "2005": null,
+              "2006": null,
+              "2007": null,
+              "2008": null,
+              "2009": null,
+              "2010": null,
+              "2011": null,
+              "2012": null
+            },
+            {
+              "Applicant": "Banks Developments",
+              "2001": null,
+              "2002": null,
+              "2003": null,
+              "2004": null,
+              "2005": null,
+              "2006": null,
+              "2007": null,
+              "2008": null,
+              "2009": null,
+              "2010": null,
+              "2011": "Kype Muir",
+              "2012": null
+            }
+          ],
+          "row_count": 20
+        }
+      ]
+    },
+    "Basic Information": {
+      "is_data_sheet": false,
+      "raw_shape": [
+        26,
+        5
+      ],
+      "parsed_tables": []
+    },
+    "Hydrological System": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        31,
+        8
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Wind farms",
+            "Peat depth measured",
+            "Peat depth sampled across the EIA site and along the proposed infrastructure",
+            "Actual peat depth provided for all samples",
+            "Mesotopes and their margins identified and mapped",
+            "Links between various hydrological unit levels described",
+            "Macrotopes and their margins identified and mapped",
+            "Macrotope boundaries used to identify the geographical area for the EIA assessment"
+          ],
+          "dtypes": {
+            "Wind farms": "str",
+            "Peat depth measured": "object",
+            "Peat depth sampled across the EIA site and along the proposed infrastructure": "object",
+            "Actual peat depth provided for all samples": "object",
+            "Mesotopes and their margins identified and mapped": "object",
+            "Links between various hydrological unit levels described": "object",
+            "Macrotopes and their margins identified and mapped": "object",
+            "Macrotope boundaries used to identify the geographical area for the EIA assessment": "object"
+          },
+          "sample_rows": [
+            {
+              "Wind farms": null,
+              "Peat depth measured": "1 - yes",
+              "Peat depth sampled across the EIA site and along the proposed infrastructure": "1 - yes",
+              "Actual peat depth provided for all samples": "1 - yes",
+              "Mesotopes and their margins identified and mapped": "1 - yes",
+              "Links between various hydrological unit levels described": "1 - yes",
+              "Macrotopes and their margins identified and mapped": "1 - yes",
+              "Macrotope boundaries used to identify the geographical area for the EIA assessment": "1 - yes"
+            },
+            {
+              "Wind farms": null,
+              "Peat depth measured": "0.5 - few probes to aid vegetation surveys",
+              "Peat depth sampled across the EIA site and along the proposed infrastructure": "0.5 - partially",
+              "Actual peat depth provided for all samples": "0.5 - some",
+              "Mesotopes and their margins identified and mapped": "0.5 - mesotopes identified but not their margins and/or not mapped",
+              "Links between various hydrological unit levels described": "0.5 - some",
+              "Macrotopes and their margins identified and mapped": "0.5 - macrotopes identified but not their margins and/or no mapped",
+              "Macrotope boundaries used to identify the geographical area for the EIA assessment": "0 - no"
+            },
+            {
+              "Wind farms": null,
+              "Peat depth measured": "0 - no",
+              "Peat depth sampled across the EIA site and along the proposed infrastructure": "0 - no or unknown",
+              "Actual peat depth provided for all samples": "0 - no or no data",
+              "Mesotopes and their margins identified and mapped": "0 - no",
+              "Links between various hydrological unit levels described": "0 - no",
+              "Macrotopes and their margins identified and mapped": "0 - no",
+              "Macrotope boundaries used to identify the geographical area for the EIA assessment": null
+            }
+          ],
+          "row_count": 28
+        }
+      ]
+    },
+    "Vegetation section": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        32,
+        9
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Wind farms",
+            "Phase 1 & NVC used to survey habitats",
+            "Samples taken evenly from across the entire range of study area",
+            "Raw data provided for all NVC quadrates",
+            "Microtope/vegetation patterns across each mesotope identified",
+            "Individual nanotope zones within each microtope/ vegetation stand sampled",
+            "Individual nanotope zones within each microtope/vegetation stand sampled",
+            "Fen types classified",
+            "The timing and duration (number of days) of vegetation survey stated"
+          ],
+          "dtypes": {
+            "Wind farms": "str",
+            "Phase 1 & NVC used to survey habitats": "object",
+            "Samples taken evenly from across the entire range of study area": "object",
+            "Raw data provided for all NVC quadrates": "object",
+            "Microtope/vegetation patterns across each mesotope identified": "object",
+            "Individual nanotope zones within each microtope/ vegetation stand sampled": "object",
+            "Individual nanotope zones within each microtope/vegetation stand sampled": "object",
+            "Fen types classified": "object",
+            "The timing and duration (number of days) of vegetation survey stated": "object"
+          },
+          "sample_rows": [
+            {
+              "Wind farms": null,
+              "Phase 1 & NVC used to survey habitats": "1 - both",
+              "Samples taken evenly from across the entire range of study area": "1 - yes",
+              "Raw data provided for all NVC quadrates": "1 - yes",
+              "Microtope/vegetation patterns across each mesotope identified": "1 - yes",
+              "Individual nanotope zones within each microtope/ vegetation stand sampled": "1 - yes",
+              "Individual nanotope zones within each microtope/vegetation stand sampled": "1 - yes",
+              "Fen types classified": "1 - yes",
+              "The timing and duration (number of days) of vegetation survey stated": "1 - yes"
+            },
+            {
+              "Wind farms": null,
+              "Phase 1 & NVC used to survey habitats": "0.5 - only one",
+              "Samples taken evenly from across the entire range of study area": "0.5 - some omissions",
+              "Raw data provided for all NVC quadrates": "0 - no or no data",
+              "Microtope/vegetation patterns across each mesotope identified": "0 - no",
+              "Individual nanotope zones within each microtope/ vegetation stand sampled": "0.5 - partially",
+              "Individual nanotope zones within each microtope/vegetation stand sampled": "0.5 - some",
+              "Fen types classified": "0.5 - named but not classified",
+              "The timing and duration (number of days) of vegetation survey stated": "0.5 - only time or only one type of survey"
+            },
+            {
+              "Wind farms": null,
+              "Phase 1 & NVC used to survey habitats": "0 - none",
+              "Samples taken evenly from across the entire range of study area": "0 - no or unknown",
+              "Raw data provided for all NVC quadrates": null,
+              "Microtope/vegetation patterns across each mesotope identified": null,
+              "Individual nanotope zones within each microtope/ vegetation stand sampled": "0 - no",
+              "Individual nanotope zones within each microtope/vegetation stand sampled": "0 - none or very large omissions",
+              "Fen types classified": "0 - no",
+              "The timing and duration (number of days) of vegetation survey stated": "0 - no"
+            }
+          ],
+          "row_count": 29
+        }
+      ]
+    },
+    "Habitats": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        27,
+        5
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Wind farms",
+            "Areas (ha) given for each vegetation community or mesotope.",
+            "Land management of the development site identified.",
+            "The level of peat habitat condition assessed (e.g. recovering/ re-vegetative, stable, deteriorating/ drying out).",
+            "The management of peatland habitats on the site described in case the project were not to go ahead."
+          ],
+          "dtypes": {
+            "Wind farms": "str",
+            "Areas (ha) given for each vegetation community or mesotope.": "object",
+            "Land management of the development site identified.": "object",
+            "The level of peat habitat condition assessed (e.g. recovering/ re-vegetative, stable, deteriorating/ drying out).": "object",
+            "The management of peatland habitats on the site described in case the project were not to go ahead.": "object"
+          },
+          "sample_rows": [
+            {
+              "Wind farms": null,
+              "Areas (ha) given for each vegetation community or mesotope.": "1 - yes",
+              "Land management of the development site identified.": "1 - yes",
+              "The level of peat habitat condition assessed (e.g. recovering/ re-vegetative, stable, deteriorating/ drying out).": "1 - applied some methodology to assess the condition",
+              "The management of peatland habitats on the site described in case the project were not to go ahead.": "1 - yes"
+            },
+            {
+              "Wind farms": null,
+              "Areas (ha) given for each vegetation community or mesotope.": "0 - no",
+              "Land management of the development site identified.": "0 - no",
+              "The level of peat habitat condition assessed (e.g. recovering/ re-vegetative, stable, deteriorating/ drying out).": "0.5 - observation of the habitat condition but no methodology",
+              "The management of peatland habitats on the site described in case the project were not to go ahead.": "0.5 - some"
+            },
+            {
+              "Wind farms": null,
+              "Areas (ha) given for each vegetation community or mesotope.": null,
+              "Land management of the development site identified.": null,
+              "The level of peat habitat condition assessed (e.g. recovering/ re-vegetative, stable, deteriorating/ drying out).": "0 - no assessment",
+              "The management of peatland habitats on the site described in case the project were not to go ahead.": "0 - no"
+            }
+          ],
+          "row_count": 24
+        }
+      ]
+    },
+    "Impacts on peat": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        28,
+        9
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Wind farms",
+            "Methods used to predict impact magnitude described.",
+            "Magnitude of impacts on peat described.",
+            "Uncertainties, information gaps and/or limitations of the study explained.",
+            "Direct impacts on peat habitats described and quantified?",
+            "Indirect impacts on peat habitats identified and assessed?",
+            "Impacts on ecosystem services of peatland habitats identified and assessed?",
+            "Zone of influence used for assessment of indirect impacts (doesn't include peatslide)?",
+            "Cumulative effects on peat habitats identified and assessed"
+          ],
+          "dtypes": {
+            "Wind farms": "str",
+            "Methods used to predict impact magnitude described.": "object",
+            "Magnitude of impacts on peat described.": "object",
+            "Uncertainties, information gaps and/or limitations of the study explained.": "object",
+            "Direct impacts on peat habitats described and quantified?": "object",
+            "Indirect impacts on peat habitats identified and assessed?": "object",
+            "Impacts on ecosystem services of peatland habitats identified and assessed?": "object",
+            "Zone of influence used for assessment of indirect impacts (doesn't include peatslide)?": "object",
+            "Cumulative effects on peat habitats identified and assessed": "object"
+          },
+          "sample_rows": [
+            {
+              "Wind farms": null,
+              "Methods used to predict impact magnitude described.": "1 - yes",
+              "Magnitude of impacts on peat described.": "1 - yes",
+              "Uncertainties, information gaps and/or limitations of the study explained.": "1 - any (even just one comment)",
+              "Direct impacts on peat habitats described and quantified?": "1 - described and quantified",
+              "Indirect impacts on peat habitats identified and assessed?": "1 - identified and quantitatively assessed (at least one assessment quantifying the extent of disturbed peatland habitats using a zone of influence)",
+              "Impacts on ecosystem services of peatland habitats identified and assessed?": "1 - yes",
+              "Zone of influence used for assessment of indirect impacts (doesn't include peatslide)?": "1 - yes",
+              "Cumulative effects on peat habitats identified and assessed": "1 - both ecology and geology/ geohydrology/ hydrology/ soils/ water chapters/ aquatic ecology cumulative impacts are assessed"
+            },
+            {
+              "Wind farms": null,
+              "Methods used to predict impact magnitude described.": "0 - no",
+              "Magnitude of impacts on peat described.": "0.5 - some",
+              "Uncertainties, information gaps and/or limitations of the study explained.": "0 - no",
+              "Direct impacts on peat habitats described and quantified?": "0.5 - only described or questionable methodology for calculating habitat loss",
+              "Indirect impacts on peat habitats identified and assessed?": "0.5 - identified",
+              "Impacts on ecosystem services of peatland habitats identified and assessed?": "0 - no",
+              "Zone of influence used for assessment of indirect impacts (doesn't include peatslide)?": "0 - no",
+              "Cumulative effects on peat habitats identified and assessed": "0.5 - either ecology or the remaining cumulative impacts are not assessed"
+            },
+            {
+              "Wind farms": null,
+              "Methods used to predict impact magnitude described.": null,
+              "Magnitude of impacts on peat described.": "0 - no",
+              "Uncertainties, information gaps and/or limitations of the study explained.": null,
+              "Direct impacts on peat habitats described and quantified?": "0 - no assessment",
+              "Indirect impacts on peat habitats identified and assessed?": "0 - not assessment",
+              "Impacts on ecosystem services of peatland habitats identified and assessed?": null,
+              "Zone of influence used for assessment of indirect impacts (doesn't include peatslide)?": null,
+              "Cumulative effects on peat habitats identified and assessed": "0 - no assessment"
+            }
+          ],
+          "row_count": 25
+        }
+      ]
+    }
+  }
+}

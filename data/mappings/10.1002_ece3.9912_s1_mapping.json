@@ -1,0 +1,67 @@
+{
+  "doi": {
+    "source_column": "null",
+    "inferred_value": "10.1002/ece3.9912",
+    "confidence": 0.9
+  },
+  "study_id": {
+    "source_column": "null",
+    "inferred_value": "unique_study_id",
+    "confidence": 0.5
+  },
+  "location": {
+    "source_column": "null",
+    "inferred_value": "varied peatland ecosystems in northern England and Scotland",
+    "confidence": 0.8
+  },
+  "country": {
+    "source_column": "null",
+    "inferred_value": "United Kingdom",
+    "confidence": 0.95
+  },
+  "latitude": {
+    "source_column": "null",
+    "inferred_value": "Average latitude of study sites around 53.6\u00b0 N to 57.0\u00b0 N",
+    "confidence": 0.7
+  },
+  "longitude": {
+    "source_column": "null",
+    "inferred_value": "Average longitude of study sites around 2.6\u00b0 W to 4.4\u00b0 W",
+    "confidence": 0.7
+  },
+  "taxon": {
+    "source_column": "null",
+    "inferred_value": "Various vascular plants and cryptogams",
+    "confidence": 0.85
+  },
+  "biodiversity_metric": {
+    "source_column": "null",
+    "inferred_value": "Species richness",
+    "confidence": 0.9
+  },
+  "biodiversity_value": {
+    "source_column": "null",
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "ecosystem_function": {
+    "source_column": "null",
+    "inferred_value": "Vegetation resilience, carbon storage",
+    "confidence": 0.8
+  },
+  "ecosystem_function_value": {
+    "source_column": "null",
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "sample_size": {
+    "source_column": "null",
+    "inferred_value": "Multiple plots across six wildfires",
+    "confidence": 0.7
+  },
+  "units": {
+    "source_column": "null",
+    "inferred_value": "Units of species counts, diversity indices",
+    "confidence": 0.6
+  }
+}

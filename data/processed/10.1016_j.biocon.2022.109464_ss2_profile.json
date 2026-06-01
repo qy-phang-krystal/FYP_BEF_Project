@@ -1,0 +1,54 @@
+{
+  "file": "10.1016_j.biocon.2022.109464_ss2.xlsx",
+  "type": "excel",
+  "sheets": {
+    "Title": {
+      "is_data_sheet": false,
+      "raw_shape": [
+        0,
+        0
+      ],
+      "parsed_tables": []
+    },
+    "Entomofauna Representation Data": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        17,
+        3
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Insect Group",
+            "No. Species in UK and Ireland",
+            "Proportion of Entomofauna"
+          ],
+          "dtypes": {
+            "Insect Group": "str",
+            "No. Species in UK and Ireland": "object",
+            "Proportion of Entomofauna": "object"
+          },
+          "sample_rows": [
+            {
+              "Insect Group": "Ephemeroptera",
+              "No. Species in UK and Ireland": 51,
+              "Proportion of Entomofauna": 0.002
+            },
+            {
+              "Insect Group": "Odonata",
+              "No. Species in UK and Ireland": 49,
+              "Proportion of Entomofauna": 0.002
+            },
+            {
+              "Insect Group": "Orthoptera",
+              "No. Species in UK and Ireland": 33,
+              "Proportion of Entomofauna": 0.001
+            }
+          ],
+          "row_count": 16
+        }
+      ]
+    }
+  }
+}

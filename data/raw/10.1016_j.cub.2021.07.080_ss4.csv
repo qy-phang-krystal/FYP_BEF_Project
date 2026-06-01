@@ -1,0 +1,22 @@
+Species,Size,Diet,Feeding_area
+Ceutorhynchus obstrictus,3,Arable_specialist,Aboveground_spec
+Ceutorhynchus assimilis s.lat.,3,Arable_specialist,Aboveground_spec
+Sitona lineatus,5,Arable_specialist,Both
+Bruchus rufimanus,4.5,Arable_specialist,Aboveground_spec
+Psylliodes chrysocephala,6,Arable_specialist,Aboveground_spec
+Lygus rugulipennis,6,Generalist,Aboveground
+Lygocoris pabulinus,6.5,Fruit,Aboveground
+Tipula paludosa,40,Generalist,Both
+Tipula oleracea,40,Generalist,Both
+Mamestra brassicae,50,Arable_specialist,Aboveground_spec
+Agrotis segetum,40,Generalist,Both
+Autographa gamma,40,Generalist,Aboveground_spec
+Operophtera brumata,25,Fruit,Aboveground
+Erannis defoliaria,35,Fruit,Aboveground
+Alsophila aescularia,30,Fruit,Aboveground
+Lymantria dispar,55,Fruit,Aboveground
+Otiorhynchus sulcatus,12,Fruit,Both
+Ceutorhynchus pallidactylus,5,Arable_specialist,Aboveground_spec
+Deroceras reticulatum,50,Generalist,Both
+Agrotis exclamationis,40,Generalist,Both
+Anthonomus pomorum,8,Fruit,Aboveground

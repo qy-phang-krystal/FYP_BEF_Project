@@ -1,0 +1,67 @@
+{
+  "doi": {
+    "source_column": "doi",
+    "inferred_value": null,
+    "confidence": 1.0
+  },
+  "study_id": {
+    "source_column": "study_id",
+    "inferred_value": null,
+    "confidence": 1.0
+  },
+  "location": {
+    "source_column": null,
+    "inferred_value": "West Scotland and southwest England",
+    "confidence": 0.9
+  },
+  "country": {
+    "source_column": null,
+    "inferred_value": "United Kingdom",
+    "confidence": 0.95
+  },
+  "latitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "longitude": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "taxon": {
+    "source_column": null,
+    "inferred_value": "Laminaria hyperborea",
+    "confidence": 0.95
+  },
+  "biodiversity_metric": {
+    "source_column": null,
+    "inferred_value": "Density and Standing stock",
+    "confidence": 0.8
+  },
+  "biodiversity_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "ecosystem_function": {
+    "source_column": null,
+    "inferred_value": "Biodiversity, Primary productivity",
+    "confidence": 0.7
+  },
+  "ecosystem_function_value": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "sample_size": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  },
+  "units": {
+    "source_column": null,
+    "inferred_value": null,
+    "confidence": 0.0
+  }
+}

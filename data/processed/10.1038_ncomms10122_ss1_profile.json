@@ -1,0 +1,71 @@
+{
+  "file": "10.1038_ncomms10122_ss1.xlsx",
+  "type": "excel",
+  "sheets": {
+    "BESS_WP1_species_list_with_func": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        4426,
+        8
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Species name",
+            "group",
+            "Change in frequncy of occurrence",
+            "Carbon sequestration",
+            "Cultural value",
+            "Decomposition",
+            "Pest control",
+            "Pollination"
+          ],
+          "dtypes": {
+            "Species name": "str",
+            "group": "str",
+            "Change in frequncy of occurrence": "str",
+            "Carbon sequestration": "object",
+            "Cultural value": "object",
+            "Decomposition": "object",
+            "Pest control": "object",
+            "Pollination": "object"
+          },
+          "sample_rows": [
+            {
+              "Species name": "Abax parallelepipedus",
+              "group": "Carabid beetles",
+              "Change in frequncy of occurrence": "Non-significant increase",
+              "Carbon sequestration": 0,
+              "Cultural value": 0,
+              "Decomposition": "1*",
+              "Pest control": 1,
+              "Pollination": 0
+            },
+            {
+              "Species name": "Abraxas grossulariata",
+              "group": "Moths",
+              "Change in frequncy of occurrence": "Non-significant increase",
+              "Carbon sequestration": 0,
+              "Cultural value": 1,
+              "Decomposition": 0,
+              "Pest control": 0,
+              "Pollination": 1
+            },
+            {
+              "Species name": "Abrostola tripartita",
+              "group": "Moths",
+              "Change in frequncy of occurrence": "Non-significant increase",
+              "Carbon sequestration": 0,
+              "Cultural value": 1,
+              "Decomposition": 0,
+              "Pest control": 0,
+              "Pollination": 1
+            }
+          ],
+          "row_count": 4424
+        }
+      ]
+    }
+  }
+}

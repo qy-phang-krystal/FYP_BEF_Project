@@ -1,0 +1,228 @@
+{
+  "file": "10.1111_ddi.70042_s1.xlsx",
+  "type": "excel",
+  "sheets": {
+    "Contemp survey SW Eng": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        178,
+        6
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Site",
+            "Sampling event",
+            "Sample",
+            "Density",
+            "Percent cover",
+            "Standing stock"
+          ],
+          "dtypes": {
+            "Site": "str",
+            "Sampling event": "str",
+            "Sample": "str",
+            "Density": "object",
+            "Percent cover": "object",
+            "Standing stock": "object"
+          },
+          "sample_rows": [
+            {
+              "Site": "Plym-1",
+              "Sampling event": "2014-Summer",
+              "Sample": "2014-Summer-SW England-Plym-1-1",
+              "Density": 8,
+              "Percent cover": 90,
+              "Standing stock": 6952
+            },
+            {
+              "Site": "Plym-1",
+              "Sampling event": "2014-Summer",
+              "Sample": "2014-Summer-SW England-Plym-1-2",
+              "Density": 11,
+              "Percent cover": 100,
+              "Standing stock": 9559
+            },
+            {
+              "Site": "Plym-1",
+              "Sampling event": "2014-Summer",
+              "Sample": "2014-Summer-SW England-Plym-1-3",
+              "Density": 8,
+              "Percent cover": 100,
+              "Standing stock": 6952
+            }
+          ],
+          "row_count": 176
+        }
+      ]
+    },
+    "Contemp survey W Sco": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        178,
+        6
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Site",
+            "Sampling event",
+            "Sample code",
+            "Density",
+            "Percent cover",
+            "Standing stock"
+          ],
+          "dtypes": {
+            "Site": "str",
+            "Sampling event": "str",
+            "Sample code": "str",
+            "Density": "object",
+            "Percent cover": "object",
+            "Standing stock": "object"
+          },
+          "sample_rows": [
+            {
+              "Site": "Oban-1",
+              "Sampling event": "2014-Summer",
+              "Sample code": "2014-Summer-W Scot-Oban-1-1",
+              "Density": 13,
+              "Percent cover": 100,
+              "Standing stock": 26979.333333333336
+            },
+            {
+              "Site": "Oban-1",
+              "Sampling event": "2014-Summer",
+              "Sample code": "2014-Summer-W Scot-Oban-1-2",
+              "Density": 16,
+              "Percent cover": 100,
+              "Standing stock": 33205.333333333336
+            },
+            {
+              "Site": "Oban-1",
+              "Sampling event": "2014-Summer",
+              "Sample code": "2014-Summer-W Scot-Oban-1-3",
+              "Density": 12,
+              "Percent cover": 100,
+              "Standing stock": 24903.999999999956
+            }
+          ],
+          "row_count": 176
+        }
+      ]
+    },
+    "Historical resurvey ": {
+      "is_data_sheet": true,
+      "raw_shape": [
+        36,
+        4
+      ],
+      "parsed_tables": [
+        {
+          "block_index": 0,
+          "columns": [
+            "Year",
+            "Depth",
+            "Mean plant density",
+            "Mean stipe length"
+          ],
+          "dtypes": {
+            "Year": "object",
+            "Depth": "object",
+            "Mean plant density": "object",
+            "Mean stipe length": "object"
+          },
+          "sample_rows": [
+            {
+              "Year": 1980,
+              "Depth": 3,
+              "Mean plant density": 10.87615275,
+              "Mean stipe length": 86.13505577
+            },
+            {
+              "Year": 1980,
+              "Depth": 6,
+              "Mean plant density": 8.865737129,
+              "Mean stipe length": 65.87025515
+            },
+            {
+              "Year": 1980,
+              "Depth": 9,
+              "Mean plant density": 7.610154234,
+              "Mean stipe length": 60.37813176
+            }
+          ],
+          "row_count": 8
+        },
+        {
+          "block_index": 1,
+          "columns": [
+            "Location",
+            "Year",
+            "mean standing stock FW m2"
+          ],
+          "dtypes": {
+            "Location": "str",
+            "Year": "str",
+            "mean standing stock FW m2": "object"
+          },
+          "sample_rows": [
+            {
+              "Location": "Arasaig",
+              "Year": "1969-1970",
+              "mean standing stock FW m2": 14.049999999999999
+            },
+            {
+              "Location": "Cuan Sound",
+              "Year": "1970-1976",
+              "mean standing stock FW m2": 19.5
+            },
+            {
+              "Location": "Muldoanich",
+              "Year": "1970-1976",
+              "mean standing stock FW m2": 12.5
+            }
+          ],
+          "row_count": 4
+        },
+        {
+          "block_index": 2,
+          "columns": [
+            "Decade",
+            "Month",
+            "Plant density",
+            "Standing stock"
+          ],
+          "dtypes": {
+            "Decade": "str",
+            "Month": "object",
+            "Plant density": "object",
+            "Standing stock": "object"
+          },
+          "sample_rows": [
+            {
+              "Decade": "1940s",
+              "Month": "1942-04-01T00:00:00",
+              "Plant density": 13,
+              "Standing stock": 5.59
+            },
+            {
+              "Decade": "1940s",
+              "Month": "1942-05-01T00:00:00",
+              "Plant density": 28,
+              "Standing stock": 12.04
+            },
+            {
+              "Decade": "1940s",
+              "Month": "1942-06-01T00:00:00",
+              "Plant density": 9,
+              "Standing stock": 3.87
+            }
+          ],
+          "row_count": 16
+        }
+      ]
+    }
+  }
+}

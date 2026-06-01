@@ -1,0 +1,37 @@
+{
+  "file": "10.1016_j.cub.2021.07.080_ss4.csv",
+  "type": "csv",
+  "columns": [
+    "Species",
+    "Size",
+    "Diet",
+    "Feeding_area"
+  ],
+  "dtypes": {
+    "Species": "str",
+    "Size": "float64",
+    "Diet": "str",
+    "Feeding_area": "str"
+  },
+  "sample_rows": [
+    {
+      "Species": "Ceutorhynchus obstrictus",
+      "Size": 3.0,
+      "Diet": "Arable_specialist",
+      "Feeding_area": "Aboveground_spec"
+    },
+    {
+      "Species": "Ceutorhynchus assimilis s.lat.",
+      "Size": 3.0,
+      "Diet": "Arable_specialist",
+      "Feeding_area": "Aboveground_spec"
+    },
+    {
+      "Species": "Sitona lineatus",
+      "Size": 5.0,
+      "Diet": "Arable_specialist",
+      "Feeding_area": "Both"
+    }
+  ],
+  "row_count": 21
+}

@@ -1,0 +1,19 @@
+{
+  "doi": null,
+  "study_id": null,
+  "location": null,
+  "country": null,
+  "latitude": null,
+  "longitude": null,
+  "taxon": {
+    "source_column": "Fig2.PropSpecies",
+    "inferred_value": null,
+    "confidence": 0.95
+  },
+  "biodiversity_metric": null,
+  "biodiversity_value": null,
+  "ecosystem_function": null,
+  "ecosystem_function_value": null,
+  "sample_size": null,
+  "units": null
+}
