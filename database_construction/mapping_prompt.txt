@@ -1,0 +1,25 @@
+TASK:
+Map scientific dataset columns into canonical schema.
+
+RULES:
+- For fields that exist as columns in the data source: map source_column to the column name and set inferred_value to null
+- For fields that DON'T exist in the data source: set source_column to null and infer the value from paper context, setting inferred_value to the inferred information
+- If uncertain about inference, return null for both source_column and inferred_value
+- Always include all fields listed in the canonical schema in your output
+- For missing or unknown fields, explicitly return source_column: null, inferred_value: null, and confidence: 0.0
+- Return confidence scores (higher for direct mappings, lower for inferences)
+- Output valid JSON only
+
+CRITICAL BEF DEFINITIONS & GUARDRAILS:
+- "Carbon sequestration", "biomass", "decomposition", "pollination", "pest control", and "yield" are Ecosystem Functions. They are NEVER Biodiversity metrics.
+- Biodiversity metrics strictly refer to measurements of variety or quantity of life (e.g., "Species richness", "abundance", "Shannon diversity", "Simpson index").
+- STRICT BEF REQUIREMENT: If the dataset is merely a species list/trait database, or if it lacks distinct columns containing actual quantitative data for BOTH a biodiversity metric AND an ecosystem function, you MUST map `source_column` to `null` for both `biodiversity_value` and `ecosystem_function_value`.
+
+CANONICAL SCHEMA:
+{schema}
+
+SOURCE PROFILE:
+{profile}
+
+PAPER CONTEXT:
+{paper_context}
