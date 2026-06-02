@@ -13,10 +13,10 @@ class BESPipeline:
     def run(self):
 
         # STEP 1 — LLM SCREENING
-        #llm_screening(
-        #    excel="UK_BEF_data.xlsx",
-        #    num_rows=52,
-        #)
+        llm_screening(
+            excel="UK_BEF_data.xlsx",
+            num_rows=52,
+        )
 
         # STEP 2 — LOAD INCLUDED PAPERS
         target_papers = (
